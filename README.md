@@ -47,7 +47,7 @@
 
 <p>
   <b>Matchmaker</b><br />
-  Course registration and management platform sold to Woodward Academy.
+  Uses cosine simmilarity matrix to match students and than automatically sends out emails
 </p>
 
 <h2 align="left">Research</h2>
