@@ -40,7 +40,6 @@ currently_building: High-impact tools in education, health, and workflows
 | [![QuizBee](https://img.shields.io/badge/QuizBee-AI_Study_Platform-58A6FF?style=for-the-badge)](https://github.com/qwertyuioopzxcvbnm/Quizbee) | AI-powered study platform that generates personalized quizzes to improve retention and understanding |
 | [![Maymester](https://img.shields.io/badge/Maymester-Course_Management-58A6FF?style=for-the-badge)](https://github.com/qwertyuioopzxcvbnm/Maymester) | Course registration and management platform built for academic workflows |
 | [![Matchmaker](https://img.shields.io/badge/Matchmaker-Student_Matching-58A6FF?style=for-the-badge)](#) | Uses cosine similarity matrix to match students and automatically sends out emails |
-| [![AI Projects](https://img.shields.io/badge/AI_ML-Projects-58A6FF?style=for-the-badge)](https://github.com/me50/qwertyuioopzxcvbnm) | Multiple AI and Machine learning projects |
 
 </div>
 
@@ -74,15 +73,20 @@ Built an adaptive learning framework combining Item Response Theory, Bayesian Kn
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Tools & Frameworks
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 ### ML & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
