@@ -40,7 +40,7 @@ currently_building: High-impact tools in education, health, and workflows
 | [![QuizBee](https://img.shields.io/badge/QuizBee-AI_Study_Platform-58A6FF?style=for-the-badge)](https://github.com/qwertyuioopzxcvbnm/Quizbee) | AI-powered study platform that generates personalized quizzes to improve retention and understanding |
 | [![Maymester](https://img.shields.io/badge/Maymester-Course_Management-58A6FF?style=for-the-badge)](https://github.com/qwertyuioopzxcvbnm/Maymester) | Course registration and management platform built for academic workflows |
 | [![Matchmaker](https://img.shields.io/badge/Matchmaker-Student_Matching-58A6FF?style=for-the-badge)](#) | Uses cosine similarity matrix to match students and automatically sends out emails |
-| [![AI Projects](https://img.shields.io/badge/AI-Projects-58A6FF?style=for-the-badge)](https://github.com/me50/qwertyuioopzxcvbnm) | Multiple AI and Machine learning projects |
+| [![AI Projects](https://img.shields.io/badge/AI_ML-Projects-58A6FF?style=for-the-badge)](https://github.com/me50/qwertyuioopzxcvbnm) | Multiple AI and Machine learning projects |
 
 </div>
 
