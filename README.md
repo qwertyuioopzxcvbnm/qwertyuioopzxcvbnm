@@ -103,6 +103,9 @@ AI Internship (Robotic Surgical Systems)
 ├── Machine learning algorithms for real-time surgical assistance
 ├── Image recognition pipelines
 └── Data analysis workflows
+Freelancer
+├── Sold course registration software to Woodward academy
+└── Saved over 100 hours or work
 ```
 
 </div>
