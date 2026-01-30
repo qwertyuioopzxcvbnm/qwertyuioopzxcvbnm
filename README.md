@@ -62,8 +62,7 @@
   Built an adaptive learning framework combining Item Response Theory, Bayesian Knowledge Tracing, and deep learning based quiz adaptation.
 </p>
 
-    </td>
-    <td valign="top" width="38%">
+
 
 <h2 align="left">Skills</h2>
 
@@ -120,9 +119,3 @@
 <hr />
 
 <h2 align="left">Notes</h2>
-
-<ul>
-  <li>Pin 4 to 6 repos that best represent your current work</li>
-  <li>Keep project READMEs crisp with a demo, setup steps, and results</li>
-  <li>Ship small changes often to show consistent activity</li>
-</ul>
