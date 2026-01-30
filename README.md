@@ -96,7 +96,7 @@ Built an adaptive learning framework combining Item Response Theory, Bayesian Kn
 
 ## Experience
 
-<div align="center">
+<div align="left">
 
 ```
 AI Internship (Robotic Surgical Systems)
