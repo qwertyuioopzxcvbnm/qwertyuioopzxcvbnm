@@ -88,22 +88,7 @@
   <li>Applied Research</li>
 </ul>
 
-<h2 align="left">Activity</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=qwertyuioopzxcvbnm&show_icons=true&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qwertyuioopzxcvbnm&hide_border=true" />
-</p>
-
-<!-- Optional: achievements and trophies -->
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=qwertyuioopzxcvbnm&no-frame=true&margin-w=8" />
-</p>
-
-    </td>
   </tr>
 </table>
 
@@ -118,4 +103,4 @@
 
 <hr />
 
-<h2 align="left">Notes</h2>
+
