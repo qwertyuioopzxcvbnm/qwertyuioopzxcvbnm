@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Avyakt Agrawal 👋
+# Hey there! I'm Avy Agrawal
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Engineering+%26+AI+Builder;Adaptive+Learning+Researcher;Full+Stack+Developer;Hardware+Prototyper" alt="Typing SVG" />
 
@@ -8,22 +8,15 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-qwertyuioopzxcvbnm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qwertyuioopzxcvbnm)
 
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="50" alt="Pull Shark" title="Pull Shark"/>
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="50" alt="YOLO" title="YOLO"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="50" alt="Quickdraw" title="Quickdraw"/>
+
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark" title="Pull Shark"/>
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100" alt="YOLO" title="YOLO"/>
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100" alt="Quickdraw" title="Quickdraw"/>
-  <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="100" alt="Starstruck" title="Starstruck"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qwertyuioopzxcvbnm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -34,13 +27,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qwertyuioopzxcvbnm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qwertyuioopzxcvbnm&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-</div>
-
 ---
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 name: Avyakt Agrawal
@@ -55,33 +44,33 @@ currently_building: High-impact tools in education, health, and workflows
 
 ---
 
-## 💎 Pinnacle Projects
+## Pinnacle Projects
 
 <div align="center">
 
 | Project | Description |
 |---------|-------------|
-| [![QuizBee](https://img.shields.io/badge/🐝_QuizBee-AI_Study_Platform-58A6FF?style=for-the-badge)](https://github.com/qwertyuioopzxcvbnm/Quizbee) | AI-powered study platform that generates personalized quizzes to improve retention and understanding |
-| [![Maymester](https://img.shields.io/badge/📚_Maymester-Course_Management-58A6FF?style=for-the-badge)](https://github.com/qwertyuioopzxcvbnm/Maymester) | Course registration and management platform built for academic workflows |
-| [![Matchmaker](https://img.shields.io/badge/💡_Matchmaker-Student_Matching-58A6FF?style=for-the-badge)](#) | Uses cosine similarity matrix to match students and automatically sends out emails |
+| [![QuizBee](https://img.shields.io/badge/QuizBee-AI_Study_Platform-58A6FF?style=for-the-badge)](https://github.com/qwertyuioopzxcvbnm/Quizbee) | AI-powered study platform that generates personalized quizzes to improve retention and understanding |
+| [![Maymester](https://img.shields.io/badge/Maymester-Course_Management-58A6FF?style=for-the-badge)](https://github.com/qwertyuioopzxcvbnm/Maymester) | Course registration and management platform built for academic workflows |
+| [![Matchmaker](https://img.shields.io/badge/Matchmaker-Student_Matching-58A6FF?style=for-the-badge)](#) | Uses cosine similarity matrix to match students and automatically sends out emails |
 
 </div>
 
 ---
 
-## 🔬 Research
+## Research
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 Mitigating Cognitive Biases in Education
+### Mitigating Cognitive Biases in Education
 Research on improving learning outcomes through AI-generated quizzes and adaptive practice.
 
 </td>
 <td width="50%">
 
-### 📈 IEMCon 2025 Adaptive Learning Framework
+### IEMCon 2025 Adaptive Learning Framework
 Built an adaptive learning framework combining Item Response Theory, Bayesian Knowledge Tracing, and deep learning-based quiz adaptation.
 
 </td>
@@ -90,7 +79,7 @@ Built an adaptive learning framework combining Item Response Theory, Bayesian Kn
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -117,12 +106,12 @@ Built an adaptive learning framework combining Item Response Theory, Bayesian Kn
 
 ---
 
-## 💼 Experience
+## Experience
 
 <div align="center">
 
 ```
-🤖 AI Internship (Robotic Surgical Systems)
+AI Internship (Robotic Surgical Systems)
 ├── Machine learning algorithms for real-time surgical assistance
 ├── Image recognition pipelines
 └── Data analysis workflows
@@ -132,7 +121,7 @@ Built an adaptive learning framework combining Item Response Theory, Bayesian Kn
 
 ---
 
-## 🌟 Interests
+## Interests
 
 <div align="center">
 
@@ -144,7 +133,7 @@ Built an adaptive learning framework combining Item Response Theory, Bayesian Kn
 
 <div align="center">
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qwertyuioopzxcvbnm)
 
