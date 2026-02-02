@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🎮 Play My Gravity Simulator!
+## Play My Gravity Simulator!
 
 [![Play Gravity Simulator](https://img.shields.io/badge/▶_PLAY_NOW-Gravity_Simulator-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://qwertyuioopzxcvbnm.github.io/gravity-simulator/)
 
